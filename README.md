@@ -1,11 +1,40 @@
+
 # ¡Hola, soy Nicolas JS! 👋
-Licenciado en Automatizacion Industrial
-💬 Pregúntame sobre Sistemas Embebidos, Programacion, Electronica, Redes.  
 
 
-Lenguajes: C/C++, VB6, Java, JavaScript, ASM, Python, HTML y CSS.
+## Tabla de Contenidos
+- [Sobre Mí](#sobre-mí)
+- [Lenguajes y Tecnologías](#lenguajes-y-tecnologías)
+- [Contacto](#contacto)
+
+## Sobre Mí
+Soy licenciado en Automatización Industrial.
+
+💬 Pregúntame sobre Sistemas Embebidos, Programación, Electrónica, Redes.
+
+## Lenguajes y Tecnologías
+### Lenguajes
+- C/C++
+- VB6
+- Java
+- JavaScript
+- ASM
+- Python
+- HTML
+- CSS
+
+### Otras Tecnologías
+- Electrónica / Microelectrónica
+- Diseño de Hardware
+- Microcontroladores (8051, PIC, ATMEL (AVR / SAM), ESPRESSIF, ARM)
+- Linux para embebidos
+- Redes
+- Servidores Linux
+- Servidores Windows (2000 - 2016)
+- PLC
 
 
-Otras Tecnologias: Electronica, Microelectronica, Microcontroladores (8051, PIC, ATMEL (AVR / SAM) , ESPRESSIF, ARM), Linux para embebidos, PLC, Redes, Servidores Linux, Servidores Windows (2000 - 2008, en adelante es basura) Base de Datos (MySQL, SQL), Seguridad informatica y forense. y otras cosas más.
-
+## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicoschn&show_icons=true&theme=radical)
+
+## Contacto
